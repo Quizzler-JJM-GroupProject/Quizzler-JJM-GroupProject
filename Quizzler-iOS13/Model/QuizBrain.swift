@@ -24,6 +24,7 @@ struct QuizBrain {
            Question(q: "Chocolate affects a dog's heart and nervous system; a few ounces are enough to kill a small dog.", a: "True")
            Question(q: "We can learn programming on Youtube.com", a: "True")
            Question(q: "The csuf is a good school", a: "True")
+           Question(q: "Only character or integer can be used in switch statement", a: "True")
 
        ]
 
